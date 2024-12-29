@@ -1,0 +1,2 @@
+# Statistical-analysis-of-the-dataset-involved-in-Jaundice-and-Viral-hepatitis
+ This repository features statistical analysis and visualization of a dataset, including box plots to identify distributions and outliers, histograms for frequency insights, and correlation heatmaps to explore variable relationships. These analyses provide a foundation for deeper data exploration and predictive modeling.
